@@ -1,2 +1,2 @@
-# In video I have missed product detail part click on product image part to see detail of product
+Live Link: https://e-commerce-excellence.vercel.app/
 
